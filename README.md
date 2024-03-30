@@ -3,10 +3,10 @@
 I'm a marine biologist working on the Darwin Tree of Life project, where we're trying to whole genome sequence all eukaryotes in Britian and Ireland!  🌱 🐛 🐟 🪱🦋🍄🦐🧪
 
 ## Currently:
-I'm training as a software developer with CoGrammar/HyperionDev too, hoping to gain extra skills to help my project and personal development, as well as opening up the potential for a career change.
+I'm training as a software developer with CoGrammar/HyperionDev, hoping to gain extra skills to help my project and personal development, as well as opening up the potential for a career change.
 
-## Hobbies:
-Swimming, Paddle Boarding, TAG Rugby, Nature, Photography
+## Some of my Hobbies:
+Swimming, Paddle Boarding, TAG Rugby, Nature, Photography.
 
 ## Before you go...
 Please enjoy a picture of mine, the Jellyfish **Catostylus tagi**.
