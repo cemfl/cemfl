@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi 👋 and welcome to my repository!
 
-<!--
-**cemfl/cemfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a marine biologist working on the Darwin Tree of Life project, where we're trying to whole genome sequence all eukaryotes in Britian and Ireland!  🌱 🐛 🐟 🪱🦋🍄🦐🧪
 
-Here are some ideas to get you started:
+## Currently:
+I'm training as a software developer with CoGrammar/HyperionDev too, hoping to gain extra skills to help my project and personal development, as well as opening up the potential for a career change.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies:
+Swimming, Paddle Boarding, TAG Rugby, Nature, Photography
+
+## Before you go...
+Please enjoy a picture of mine, the Jellyfish **Catostylus tagi**.
+<picture>
+  <srcset="https://live.staticflickr.com/1893/44696178342_34dd240802_k.jpg">
+  <img alt="Shows a Jellyfish." src="https://live.staticflickr.com/1893/44696178342_34dd240802_k.jpg">
+</picture>
+
+
