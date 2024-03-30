@@ -5,7 +5,7 @@ I'm a marine biologist working on the Darwin Tree of Life project, where we're t
 ## Currently:
 I'm training as a software developer with CoGrammar/HyperionDev, hoping to gain extra skills to help my project and personal development, as well as opening up the potential for a career change.
 
-## Some of my Hobbies:
+## Some of my hobbies:
 Swimming, Paddle Boarding, TAG Rugby, Nature, Photography.
 
 ## Before you go...
