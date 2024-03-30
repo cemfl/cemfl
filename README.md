@@ -10,6 +10,7 @@ Swimming, Paddle Boarding, TAG Rugby, Nature, Photography.
 
 ## Before you go...
 Please enjoy a picture of mine, the Jellyfish **Catostylus tagi**.
+
 <picture>
   <srcset="https://live.staticflickr.com/1893/44696178342_34dd240802_k.jpg">
   <img alt="Shows a Jellyfish." src="https://live.staticflickr.com/1893/44696178342_34dd240802_k.jpg">
